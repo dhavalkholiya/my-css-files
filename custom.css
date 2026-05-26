@@ -7,3 +7,6 @@ body {
     color: white;
     padding: 10px 20px;
 }
+.nav .navList>li:hover, .nav .navList>li.active{
+    background-color:red !important;
+}
